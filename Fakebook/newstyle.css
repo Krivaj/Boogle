@@ -1,0 +1,16 @@
+body{
+  background-color:Lightblue;
+}
+h2 {
+  color: DarkSlateBlue ;
+}
+#slika{
+  border:20px black dotted;
+  padding: 8px;
+}
+#slika:hover {
+  border: 10px green solid;
+}
+.category b{
+  color: purple;
+}
